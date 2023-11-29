@@ -29,3 +29,6 @@
 	path = modules/prompt/external/powerlevel10k
 	url = https://github.com/romkatv/powerlevel10k.git
 	shallow = true
+[submodule "modules/histdb/external"]
+	path = modules/histdb/external
+	url = git@github.com:larkery/zsh-histdb.git
