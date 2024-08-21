@@ -32,3 +32,6 @@
 [submodule "modules/histdb/external"]
 	path = modules/histdb/external
 	url = git@github.com:larkery/zsh-histdb.git
+[submodule "modules/jq"]
+	path = modules/jq
+	url = git@github.com:reegnz/jq-zsh-plugin.git
